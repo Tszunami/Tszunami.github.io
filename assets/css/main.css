@@ -3881,16 +3881,10 @@ input, select, textarea {
 		background-size: 100% 100%;3
 	}
 
-		#intro p, div{
-			color: #FFFFFF;
-			text-shadow: 2px 1px #000077, -1px -1px #000000,
-			2px -1px #000077, -1px 1px #000000;
-		}
-
-		#intro h1{
-			color: #FFFFFF;
-			text-shadow: 2px 1px #000077, -1px -1px #000000,
-			2px -1px #000077, -1px 1px #000000;
+		#intro {
+			color: #FAFAFF;
+			text-shadow: 2px 1px #000033, -1px -1px #000000,
+			2px -1px #000033, -1px 1px #000000;
 		}
 
 		#intro p {
