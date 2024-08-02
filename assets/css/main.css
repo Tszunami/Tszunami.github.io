@@ -3875,11 +3875,23 @@ input, select, textarea {
 
 	#intro {
 		background-attachment: fixed;
-		background-image: url("./images/intro.svg");
+		background-image: url("../../images/option-1.jpg");
 		background-position: top right;
 		background-repeat: no-repeat;
 		background-size: 100% 100%;3
 	}
+
+		#intro p, div{
+			color: #FFFFFF;
+			text-shadow: 2px 1px #000077, -1px -1px #000000,
+			2px -1px #000077, -1px 1px #000000;
+		}
+
+		#intro h1{
+			color: #FFFFFF;
+			text-shadow: 2px 1px #000077, -1px -1px #000000,
+			2px -1px #000077, -1px 1px #000000;
+		}
 
 		#intro p {
 			font-size: 1.25em;
